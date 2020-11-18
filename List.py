@@ -2,6 +2,7 @@
 '''
 List is a variable in which different type of elements can be stored deperated with commas.
 List is mutable in nature wiz. the elements can be change once the list is formed.
+List has Variable length.
 '''
 l=['a','b','c','d','1','2','3','4']
 print(l)    #['a', 'b', 'c', 'd', '1', '2', '3', '4']
