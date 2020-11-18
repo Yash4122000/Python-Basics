@@ -3,6 +3,7 @@ i=104
 s="104"
 print(i)    #104
 print(s)    #104
+print(type(s))  #<class 'str'>
 
 '''
 print(i+s) ||  This will give error as if 'i' is integer and 's' is string 
